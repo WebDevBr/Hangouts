@@ -53,3 +53,6 @@ As perguntas feitas pelos participantes durante todo o Hangout serão respondida
 ##Encerramento
 No encerramento vou falar mais sobre o trabalho de cada um e aonde encontrar os livros, cursos, blogs e sites dos partipantes.
 
+##Link para participar do sorteio
+[Cadastrar no sorteio](http://eepurl.com/bd5nXf)
+
