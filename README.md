@@ -1,12 +1,12 @@
-# Hangout – PHP OOP, TDD e Frameworks – O caminho do sucesso
+# Hangout – ABRAPHP - Associação Brasileira de Profissionais PHP
 
 ##Quando será?
 
-Ainda estamos definindo.
+Dia 25/03 - quarta - 21:00 - sugerido
 
 ##Quem irá participar?
 
-Andre Cardoso, Pablo DallOglio e Erik Figueiredo.
+Andre Cardoso, Er Galvão, Elton Minetto, Ricardo Coelho (a confirmar) e Erik Figueiredo.
 
 ##Qual a duração
 
@@ -18,41 +18,40 @@ Programadores PHP de todos os níveis comprometidos com suas carreiras.
 
 ##O que vamos falar
 
-O foco será a orientação a objetos e o Adianti Framework, mas vamos dar uma palavra sobre outros frameworks e a experiencia dos participantes com eles, quero mostrar também as vantagens de não estagnar a carreira simplesmente porque achou um framework bacana.
+O foco real será as vantagens sobre se associar a ABRAPHP, os serviços que a ABRAPHP fornece e também sobre a parte mais burocratica que a maioria dos devs não conhecem ou ignoram.
 
-Outro assunto em pauta (imagino que aparecerá naturalmente com a participação do Andre) será TDD, além de algum exemplo prático é interessante reforçar os motivos de usar e que na realidade não existem desvantagem nenhuma, é impressindível usar.
+Também quero falar sobre os projetos pessoais de cada um, tem muita coisa legal pra somar a conversa, como a Semana PHP do Elton.
 
 A opinião de todos os participantes é interessante em todos os pontos.
 
 ##Qual será o roteiro?
 
 1. Perguntas para os participantes
-2. Conversa sobre o Adianti e frameworks (livre)
-3. Conversa sobre  TDD (livre)
+2. Conversa sobre ABRAPHP
+3. Conversa sobre projetos pessoais
 4. Resposta das perguntas
-5. Encerrameto
+5. Encerramento
 
 ##Quais perguntas serão feitas?
 
-1. Para os dois: Fale com pouco sobre você e sua carreira.
-2. Para Pablo: Sobre seu livro PHP Orientado a Objetos, quais as suas motivações? Como surgiu a oportunidade? Quais os capitulos você mais teve dificuldade para escrever? Quais os que mais teve prazer em detalhar?
-3. Para Andre: Sobre seu livro Test-Driven Development – Teste e Design no Mundo Real com PHP, quais as suas motivações? Como surgiu a oportunidade? Quais os capitulos você mais teve dificuldade para escrever? Quais os que mais teve prazer em detalhar?
-4. Para Pablo: Em um dos capítulos do seu livro você falou sobre design patterns, e foi muito bacana, da umas dicas pro pessoal, links e talves até falar sobre o assunto.
-5. Para Andre: No ano passado lembro que fizemos um Hangout sobre TDD e quando fiz o convite você me falou que não iria ser muito participativo, estava iniciando e agora é referência no assunto, sei que estudou muito, da o caminho das pedras pro pessoal, aonde você buscou informações? Fala mais pra gente sobre tdd
-6. Para Pablo: Você foi o principal envolvido por tras do Adianti Framework, quais os pontos fortes dele? Quais as dicas você tem para quem quer começar com Adianti? 
-7. Para Andre: Você é moderador da comunidade CakePHP Brasil no Facebook, você anda trabalhando muito com o framework? Quais as dicas você tem para quem quer começar com Cake? Você ainda usa o CakePHP no seu dia a dia ou seguiu em frente?
-8. Para ambos: Além dos seus “frameworks principais”, o que vocês indicam pro pessoal e porquê? Pode ser um ORM, uma lib, qualquer coisa que juguem indispensável para o dia a dia
+1. Fale com pouco sobre você e sua carreira.
+2. Sobre a ABRAPHP, quais as vantagens que ela oferece aos associados? Porque se associar? Quais serviços disponíveis?
+3. Muito se discute sobre registro de carteria de trabalho e sobre abertura de CNPJ, quais dicas vocês tem para dar aos devs que estão assistindo ou que vão assistir mais tarde?
+4. Também tem se falado muito sobre certificação PHP, como a ABRAPHP pode nos ajudar? Aqui seria interessante falar sobre a certificação em sí.
+5. Pergunta  aos participantes: Prioridade é certificação ou formação acadêmica?
 
-##Adianti e Frameworks
-Aqui seria legal um bate papo livre sobre os diversos frameworks e darmos uma enfase no Adianti que é brasileiro, não vou entrar em detalhes, quero algo livre, como foi os Hangouts do CakePHP Brasil.
-##TDD
-Aqui seria legal um bate papo livre sobre TDD e a experiência de cada um no assunto, não vou entrar em detalhes, quero algo livre, como foi os Hangouts do CakePHP Brasil.
+
+##Projetos pessoais
+Seria bem bacana um papo aberto aonde cada um iniciaria falando sobre seus projetos e os demais participariam com alguma infformação, se quiserem publicar algum roteiro nesta página, por favor, commitem.
+
 ##Resposta das perguntas
 As perguntas feitas pelos participantes durante todo o Hangout serão respondidas aqui, para não atrapalhar o andamento do Hangout.
 
 ##Encerramento
-No encerramento vou falar mais sobre o trabalho de cada um e aonde encontrar os livros, cursos, blogs e sites dos partipantes.
+No encerramento vou agradecer a todos e deixá-los agradecer também e deixar suas mensagens comerciais ($$$), por assim dizer.
 
-##Link para participar do sorteio
-[Cadastrar no sorteio](http://eepurl.com/bd5nXf)
+##Sobre este "roteiro"
 
+Este é um documento aberto para sugerir, incluir, remover, chingar ou elogiar qualquer ponto, para ninguém ser pego desprevinido.
+
+Att. Erik Figueiredo
