@@ -2,11 +2,11 @@
 
 ##Quando será?
 
-Dia 25/03 - quarta - 21:00 - sugerido
+Dia 31/03 - terça - 21:00 - sugerido
 
 ##Quem irá participar?
 
-Andre Cardoso, Er Galvão, Elton Minetto, Ricardo Coelho (a confirmar) e Erik Figueiredo.
+Andre Cardoso, Er Galvão, Elton Minetto, Ricardo Coelho, Luís Otávio (a confirmar) e Erik Figueiredo.
 
 ##Qual a duração
 
