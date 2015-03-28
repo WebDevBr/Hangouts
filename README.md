@@ -50,6 +50,8 @@ As perguntas feitas pelos participantes durante todo o Hangout serão respondida
 ##Encerramento
 No encerramento vou agradecer a todos e deixá-los agradecer também e deixar suas mensagens comerciais ($$$), por assim dizer.
 
+Também quero anunciar o próximo Hangout sobre as novidades do PHP em 2015. Tenho acompanhado (não tão de perto quanto gostaria) as noticias sobre o PHP para 2015, já tivemos o lançamento do Laravel 5, CakePHP 3 agora bem rescente e as promeças do PHP 7 e Zend Framework 3 e tem muita coisa que ainda vai acontecer esse ano, ainda nem estamos no meio dele. 
+
 ##Sobre este "roteiro"
 
 Este é um documento aberto para sugerir, incluir, remover, chingar ou elogiar qualquer ponto, para ninguém ser pego desprevinido.
