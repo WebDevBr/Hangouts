@@ -4,6 +4,9 @@
 
 Dia 20/04 - segunda - 20:00
 
+##Local
+[Google Hangout](https://plus.google.com/u/0/events/c0rgahltpsq79jc75bjlhhrt7j0)
+
 ##Qual a duração
 
 Aproximadamente 1:00h.
