@@ -25,9 +25,8 @@ Vamos conhecer as novidades que virão no PHP 7, falar sobre o lançamento dos f
 1. Apresentação dos palestrantes
 2. Conversa sobre PHP 7
 3. Conversa sobre Frameworks
-4. Conversa sobre certificação
-5. Próximos hangouts
-6. Encerramento
+4. Próximos hangouts
+5. Encerramento
 
 ##Apresentação dos palestrantes
 
