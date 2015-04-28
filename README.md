@@ -44,7 +44,7 @@ As perguntas são para todos.
 
 As perguntas são para todos.
 
-1. Quais frameworks vocês mais usam? Explico, quais vocês mais gastam tempo nele e qual vocês mais usam em projetos, visto que podem ser pontos de vista diferentes.
+1. Quais frameworks vocês mais usam?.
 2. Eu já usei o Laravel aqui algumas vezes na versão 4 e 5, mas não parei e pensei, poxa, que fantástico, tive esse sentimento com Zend Framework, a que se deve o sucesso dele na opnião de vocês
 3. E sobre as novidades do Zend Framework 3, lí em algum lugar que estão buscando simplificar a curva de aprendizado? Quais os "novos elementos" que devemos esperar dele? (e por elementos defino tudo, recursos, pontos fortes e fracos... enfim)
 4. Também já temos a nova versão do CakePHP 3 o que vocês tem a dizer sobre?
