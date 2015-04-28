@@ -18,7 +18,7 @@ Todos os desenvolvedores PHP
 
 ##O que vamos falar
 
-Vamos conhecer as novidades que virão no PHP 7, falar sobre o lançamento dos frameworks mais rescentes, como Laravel 5, CakePHP 3, Zend Framework 3, sobre a campanha da certificação que está alcançando cada vez mais devs.
+Vamos conhecer as novidades que virão no PHP 7, falar sobre o lançamento dos frameworks mais rescentes, como Laravel 5, CakePHP 3, Zend Framework 3 e Symfony.
 
 ##Qual será o roteiro?
 
