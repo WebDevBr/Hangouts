@@ -1,11 +1,12 @@
-# Hangout – AngularJs - Autenticação em SPA
+# Hangout – PHP em 2015 - O ano do PHP
 
 ##Quando será?
 
-Dia 20/04 - segunda - 20:00
+dia 5 (a confirmar) - terça - 21:00
 
 ##Local
-[Google Hangout](https://plus.google.com/u/0/events/c0rgahltpsq79jc75bjlhhrt7j0)
+
+Google Hangout - o link estará disponível aqui
 
 ##Qual a duração
 
@@ -13,36 +14,55 @@ Aproximadamente 1:00h.
 
 ##Para quem é indicado
 
-Desenvolvedores que começaram rescentemente ou já trabalham com AngularJs
+Todos os desenvolvedores PHP
 
 ##O que vamos falar
 
-Vamos entender quais as limitações do AngularJs (imposta pelo próprio protocolo HTTP) quanto a autenticação e como funcionam os métodos de autenticação Basic e Digest, vamos construir um script que vai fornecer o acesso a um conteúdo Json protegido por autenticação e usar o AngularJs para consumir estes dados.
+Vamos conhecer as novidades que virão no PHP 7, falar sobre o lançamento dos frameworks mais rescentes, como Laravel 5, CakePHP 3, Zend Framework 3, sobre a campanha da certificação que está alcançando cada vez mais devs.
 
 ##Qual será o roteiro?
 
-1. Apresentação do professor
-2. Apresentação do ambiente
-3. Configurações iniciais do back-end
-4. Entendendo o Basic
-5. Entendendo o Digest
-6. Finalmente, AngularJs
-7. Criando um Módulo
-8. Fazendo login
-9. Fazendo logout
-10. Login Basic com formulário
+1. Apresentação dos palestrantes
+2. Conversa sobre PHP 7
+3. Conversa sobre Frameworks
+4. Conversa sobre certificação
+5. Próximos hangouts
+6. Encerramento
 
+##Apresentação dos palestrantes
+
+Vamos nos apresentar e falar um pouco sobre nossos projetos e carreiras.
+
+##Conversa sobre PHP 7
+
+As perguntas são para todos.
+
+1. Qual o recurso que vocês mais gostaram no PHP 7? Porque?
+2. Algumas coisas que vi no PHP 7 já existiam no Hack (linguagem derivada do PHP), acha que o Hack está um passo além por isso? Alguém já usou Hack?
+3. Já existe algo para se testar do PHP 7, mesmo que só os sources para compilar?
+
+##Conversa sobre frameworks
+
+As perguntas são para todos.
+
+1. Quais frameworks vocês mais usam? Explico, quais vocês mais gastam tempo nele e qual vocês mais usam em projetos, visto que podem ser pontos de vista diferentes.
+2. Eu já usei o Laravel aqui algumas vezes na versão 4 e 5, mas não parei e pensei, poxa, que fantástico, tive esse sentimento com Zend Framework, a que se deve o sucesso dele na opnião de vocês
+3. E sobre as novidades do Zend Framework 3, lí em algum lugar que estão buscando simplificar a curva de aprendizado? Quais os "novos elementos" que devemos esperar dele? (e por elementos defino tudo, recursos, pontos fortes e fracos... enfim)
+4. Também já temos a nova versão do CakePHP 3 o que vocês tem a dizer sobre?
+5. No fim do ano passado vi um anuncio da versão 3 do Symfony, é muito interessante já que o Laravel usa componentes dele, o CakePHP usa componentes dele, o Sylex é baseado nele, o que aconteceu com o Symfony 3? E porque todo mundo usa componentes do Symfony na opinião de vocês?
 
 ##Resposta das perguntas
 
-Poderão ser feitas perguntas em tempo de execução.
+As perguntas serão respondidas sempre que possível, em tempo real.
 
 ##Encerramento
 
-Quero anunciar o próximo Hangout sobre as novidades do PHP em 2015. Tenho acompanhado (não tão de perto quanto gostaria) as noticias sobre o PHP para 2015, já tivemos o lançamento do Laravel 5, CakePHP 3 agora bem rescente e as promeças do PHP 7 e Zend Framework 3 e tem muita coisa que ainda vai acontecer esse ano, ainda nem estamos no meio dele. 
+Quero anunciar os próximos hangouts sobre testes unitários no PHP e outro sobre SOLID (live coding).
+
+Caso esta 1 hora não seja suficiente, podemos marcar uma segunda rodada talvez.
 
 ##Sobre este "roteiro"
 
-Este é um documento aberto para sugerir, incluir, remover, chingar ou elogiar qualquer ponto, para ninguém ser pego desprevinido.
+Este é um documento aberto para sugerir, incluir, remover, chingar ou elogiar qualquer coisa, para ninguém ser pego desprevinido.
 
 Att. Erik Figueiredo
