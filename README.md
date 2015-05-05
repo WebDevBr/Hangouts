@@ -6,7 +6,7 @@ dia 5 - terça - 21:00
 
 ##Local
 
-[Google Hangout]('https://plus.google.com/events/cn5r4j3ku2vdtknb14t2ulichv4')
+[Google Hangout](https://plus.google.com/events/cn5r4j3ku2vdtknb14t2ulichv4)
 
 ##Qual a duração
 
