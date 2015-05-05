@@ -2,7 +2,7 @@
 
 ##Quando será?
 
-dia 5 (a confirmar) - terça - 21:00
+dia 5 - terça - 21:00
 
 ##Local
 
