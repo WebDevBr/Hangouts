@@ -1,64 +1,65 @@
-# Hangout – PHP em 2015 - O ano do PHP
+# Hangout – Laravel 5.1
 
 ##Quando será?
 
-dia 5 - terça - 21:00
+dia 3 de agosto - terça - 21:00
 
 ##Local
 
-[Google Hangout](https://plus.google.com/events/cn5r4j3ku2vdtknb14t2ulichv4)
+[Google Hangout]()
 
 ##Qual a duração
 
-Aproximadamente 1:00h.
+Aproximadamente 1:30h.
 
 ##Para quem é indicado
 
-Todos os desenvolvedores PHP
+Todos os desenvolvedores PHP e iniciantes/aspirantes a artesãos
 
 ##O que vamos falar
 
-Vamos conhecer as novidades que virão no PHP 7, falar sobre o lançamento dos frameworks mais rescentes, como Laravel 5, CakePHP 3, Zend Framework 3 e Symfony.
+Neste Hangout veremos um pouco sobre como iniciar no Laravel 5.1, dicas dos mestres da área para quem está começando e também sobre o projeto de tradução da documentação do Laravel que está sendo organizado pelo **artesaos.org**.
 
 ##Qual será o roteiro?
 
 1. Apresentação dos palestrantes
-2. Conversa sobre PHP 7
-3. Conversa sobre Frameworks
-4. Próximos hangouts
-5. Encerramento
+2. Dicas para quem está começando
+3. O Artesaos.org e a tradução da documentação
+4. Deploy com Deployer
+7. Resposta das perguntas
+6. Sorteios e encerramento
 
 ##Apresentação dos palestrantes
 
 Vamos nos apresentar e falar um pouco sobre nossos projetos e carreiras.
 
-##Conversa sobre PHP 7
+##Dicas para quem está começando
 
-As perguntas são para todos.
+Vamos dar dicas para quem está começando e discutir abertamente as principais dificuldades do iniciante/intermediário que vemos no dia a dia nas comunidades.
 
-1. Qual o recurso que vocês mais gostaram no PHP 7? Porque?
-2. Algumas coisas que vi no PHP 7 já existiam no Hack (linguagem derivada do PHP), acha que o Hack está um passo além por isso? Alguém já usou Hack?
-3. Já existe algo para se testar do PHP 7, mesmo que só os sources para compilar?
+##O Artesaos.org e a tradução da documentação
 
-##Conversa sobre frameworks
+Vamos discutir um pouco sobre o projeto de tradução da documentação, como podemos contribuir e um exemplo prático (com compartilhamento de tela) para quem não sabe o caminho para ajudar.
 
-As perguntas são para todos.
+##Deploy com Deployer
 
-1. Quais frameworks vocês mais usam?.
-2. Eu já usei o Laravel aqui algumas vezes na versão 4 e 5, mas não parei e pensei, poxa, que fantástico, tive esse sentimento com Zend Framework, a que se deve o sucesso dele na opnião de vocês
-3. E sobre as novidades do Zend Framework 3, lí em algum lugar que estão buscando simplificar a curva de aprendizado? Quais os "novos elementos" que devemos esperar dele? (e por elementos defino tudo, recursos, pontos fortes e fracos... enfim)
-4. Também já temos a nova versão do CakePHP 3 o que vocês tem a dizer sobre?
-5. No fim do ano passado vi um anuncio da versão 3 do Symfony, é muito interessante já que o Laravel usa componentes dele, o CakePHP usa componentes dele, o Sylex é baseado nele, o que aconteceu com o Symfony 3? E porque todo mundo usa componentes do Symfony na opinião de vocês?
+Quero mostrar, compartilhando a tela, como publicar um projeto em tempo real com o Laravel 5.1 + Deployer + Git em um servidor externo. No Hangout vou utilizar um Cloud da Digital Ocean, mas o processo poderá ser utilizado em muitos outros casos.
 
 ##Resposta das perguntas
 
 As perguntas serão respondidas sempre que possível, em tempo real.
 
-##Encerramento
+##Sorteios e encerramento
 
 Quero anunciar os próximos hangouts sobre testes unitários no PHP e outro sobre SOLID (live coding).
 
-Caso esta 1 hora não seja suficiente, podemos marcar uma segunda rodada talvez.
+## Hangouts anteriores
+
+ - [PHP OOP, TDD e Frameworks – O caminho do sucesso](https://github.com/WebDevBr/Hangouts/blob/master/anteriores/php-oop-tdd-e-frameworks-o-caminho-do-sucesso.md)
+ - [ABRAPHP - Associação Brasileira de Profissionais PHP](https://github.com/WebDevBr/Hangouts/blob/master/anteriores/abraphp-associacao-brasileira-de-profissionais-php.md)
+ - [AngularJs - Autenticação em SPA](https://github.com/WebDevBr/Hangouts/blob/master/anteriores/hangout%E2%80%93angularjs-autenticacao-em-spa.md)
+ - [PHP em 2015 - O ano do PHP](https://github.com/WebDevBr/Hangouts/blob/master/anteriores/php-em-2015-o-ano-do-php.md)
+
 
 ##Sobre este "roteiro"
 
