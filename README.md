@@ -6,7 +6,7 @@ dia 3 de agosto - terça - 21:00
 
 ##Local
 
-[Google Hangout]()
+[Google Hangout](https://plus.google.com/events/cu78vocqa914sp2qidil7cu3ijo)
 
 ##Qual a duração
 
