@@ -2,7 +2,7 @@
 
 ##Quando será?
 
-dia 3 de agosto - terça - 21:00
+dia 3 de agosto - terça - 20:30
 
 ##Local
 
